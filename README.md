@@ -1,4 +1,4 @@
-# City Shortest Path Finder
+#  Shortest Path Finder
 
 This project implements Dijkstra's algorithm to find the shortest path between locations in a graph, visualized through a simple Tkinter GUI.  It's a practical demonstration of graph traversal and algorithm implementation.
 
