@@ -13,7 +13,7 @@ This project implements Dijkstra's algorithm to find the shortest path between l
 
 1. **Prerequisites:** Make sure you have Python 3 installed.  Tkinter is typically included with Python, so no additional installation should be required.
 2. **Clone/Download:** Clone the repository (if applicable) or download the `shortest_path.py` file.
-3. **Run the Script:** Open a terminal or command prompt, navigate to the directory where you saved the file, and run the script using:
+3. **Run the Script:** Open a terminal or command prompt, navigate to the directory where you saved the file, and run the script.
 
 ```bash
 python shortest_path.py
